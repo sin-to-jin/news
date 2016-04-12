@@ -3,6 +3,8 @@ No,YYYYMMDD,url,title,genre
 2,20160412,https://www.w3.org/blog/2016/04/working-on-html5-1/,WORKING ON HTML5.1,html
 3,20160412,https://www.paypal-engineering.com/2016/04/11/statistics-for-software/,Statistics for Software,software
 4,20160412,https://lwn.net/Articles/683335/,The linux-stable security tree project,linux
-5,20160412,http://techcrunch.com/2016/04/05/the-reality-of-arvr-business-models/?ncid=rss&cps=gravity_1462_8745034790021005438,The reality of AR/VR business models,ar/vr
+5,20160412,http://techcrunch.com/2016/04/05/the-reality-of-arvr-business-models/?ncid=rss&cps=gravity_1462_8745034790021005438,The reality of AR/VR business models,ar|vr
 6,20160412,https://botlist.co/,An App Store For Bots,bot
-7,20160412,http://blog.keras.io/introducing-keras-10.html,Introducing Keras 1.0,python/deepleaning
+7,20160412,http://blog.keras.io/introducing-keras-10.html,Introducing Keras 1.0,python|deep leaning
+8,20160412,https://raw.githubusercontent.com/tmux/tmux/master/CHANGES,Tmux 2.2 released,tmax
+9,20160412,https://rg3.github.io/youtube-dl/,YouTube-dl: Open-source YouTube downloader,youtube
