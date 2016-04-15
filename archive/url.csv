@@ -30,5 +30,5 @@ No,YYYYMMDD,url,title,genre
 29,20160415,http://hjson.org/,Hjson. the Human JSON,json
 30,20160415,https://glyphs.co/,Find. use. and optimize graphics,glyphs|image
 31,20160415,http://blog.jetbrains.com/kotlin/2016/04/kotlin-post-1-0-roadmap/,Kotlin Post-1.0 Roadmap,kotlin
-32,20160415,https://blog.docker.com/2016/04/docker-engine-1-11-runc/,Docker 1.11: The first OCI-compliant runtime, built on containerd,docker
+32,20160415,https://blog.docker.com/2016/04/docker-engine-1-11-runc/,Docker 1.11: The first OCI-compliant runtime. built on containerd,docker
 33,20160415,https://blog.staffjoy.com/retro-on-the-julia-programming-language-7655121ea341,Retro on the Julia Programming Language,julia
