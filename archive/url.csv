@@ -32,3 +32,6 @@ No,YYYYMMDD,url,title,genre
 31,20160415,http://blog.jetbrains.com/kotlin/2016/04/kotlin-post-1-0-roadmap/,Kotlin Post-1.0 Roadmap,kotlin
 32,20160415,https://blog.docker.com/2016/04/docker-engine-1-11-runc/,Docker 1.11: The first OCI-compliant runtime. built on containerd,docker
 33,20160415,https://blog.staffjoy.com/retro-on-the-julia-programming-language-7655121ea341,Retro on the Julia Programming Language,julia
+34,20160416,http://www.citylab.com/work/2016/03/map-geography-america-entrepreneurship-startups/474597/,The Relationship Between High-Quality Startups and Geography,startup
+35,20160416,http://metachat.io/,Metachat makes it easy to deal with multiple Slack teams.,slack|chat
+36,20160416,https://letsencrypt.status.io/,Let's Encrypt: Active Incident,let's encrypt|ssl
