@@ -35,3 +35,8 @@ No,YYYYMMDD,url,title,genre
 34,20160416,http://www.citylab.com/work/2016/03/map-geography-america-entrepreneurship-startups/474597/,The Relationship Between High-Quality Startups and Geography,startup
 35,20160416,http://metachat.io/,Metachat makes it easy to deal with multiple Slack teams.,slack|chat
 36,20160416,https://letsencrypt.status.io/,Let's Encrypt: Active Incident,let's encrypt|ssl
+37,20160418,https://utcc.utoronto.ca/~cks/space/blog/unix/FileSyncProblem,Unix's file durability problem,unix
+38,20160418,https://code.facebook.com/posts/1909042435988955/facebook-chef-cookbooks/,Facebook Chef cookbooks,facebook|chef
+39,20160418,https://webmasters.googleblog.com/2011/09/pagination-with-relnext-and-relprev.html?m=1,Pagination with rel=“next” and rel=“prev”,google|pagination
+40,20160418,http://www.sjoerdlangkemper.nl/2016/04/14/preventing-csrf-with-samesite-cookie-attribute/,Preventing CSRF with the same-site cookie attribute,csrf|cookie
+41,20160418,http://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/,The engineer’s engineer: Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality,microsoft|engineer
