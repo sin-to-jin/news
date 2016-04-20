@@ -40,3 +40,12 @@ No,YYYYMMDD,url,title,genre
 39,20160418,https://webmasters.googleblog.com/2011/09/pagination-with-relnext-and-relprev.html?m=1,Pagination with rel=“next” and rel=“prev”,google|pagination
 40,20160418,http://www.sjoerdlangkemper.nl/2016/04/14/preventing-csrf-with-samesite-cookie-attribute/,Preventing CSRF with the same-site cookie attribute,csrf|cookie
 41,20160418,http://news.microsoft.com/features/the-engineers-engineer-computer-industry-luminaries-salute-dave-cutlers-five-decade-long-quest-for-quality/,The engineer’s engineer: Computer industry luminaries salute Dave Cutler’s five-decade-long quest for quality,microsoft|engineer
+42,20160419,http://itpro.nikkeibp.co.jp/atcl/column/16/040400077/041200002/,アジア最大級のIoT展示会「IoT Asia 2016」レポート［第2回］データ解析、工業──ネットワーク選定、IoT工場監視システム、機械学習・AI・ロボットによるヘルスケアなど,iot|ai|machine learning|robot
+43,20160419,http://blog.speedchecker.xyz/2016/04/18/google-cdn-beta-is-here-and-it-brings-more-than-meets-the-eye/,Google CDN Beta is here… and it’s already one of the fastest CDNs out there!,google|cdn
+44,20160420,https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/,GitLab Partners with DigitalOcean to make Continuous Integration faster. safer. and more affordable,gitlab|digitalocean
+45,20160420,https://medium.com/@howietl/the-startup-legal-setup-guide-439b63bf68e8,The Startup Legal Setup Guide,startup
+46,20160420,https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html#url=google.com,Google.com partially dangerous,google
+47,20160420,http://www.flexboxpatterns.com/home,Flexbox Patterns,css|flexbox
+48,20160420,https://www.cesg.gov.uk/articles/problems-forcing-regular-password-expiry,The problems with forcing regular password expiry,password
+49,20160420,http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/,Is Bitcoin Becoming More Stable Than Gold?,bitcoin
+50,20160420,http://blog.regehr.org/archives/1388,Checking Up on Dataflow Analyses,dataflow analyses
