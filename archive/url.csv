@@ -49,3 +49,8 @@ No,YYYYMMDD,url,title,genre
 48,20160420,https://www.cesg.gov.uk/articles/problems-forcing-regular-password-expiry,The problems with forcing regular password expiry,password
 49,20160420,http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/,Is Bitcoin Becoming More Stable Than Gold?,bitcoin
 50,20160420,http://blog.regehr.org/archives/1388,Checking Up on Dataflow Analyses,dataflow analyses
+51,20160421,http://www.alexkras.com/19-git-tips-for-everyday-use/,19 Tips For Everyday Git Use,git
+52,20160421,https://blog.plaid.com/npmserve/,Speeding up npm in virtual environments,npm|vagrant
+53,20160421,https://hex.pm/,The package manager for the Erlang ecosystem,erlang|elixir
+54,20160421,https://serversforhackers.com/running-ansible-2-programmatically,Running Ansible 2 Programmatically,ansible
+55,20160421,http://www.theguardian.com/business/2016/apr/19/offshore-central-london-curious-case-29-harley-street,Offshore in central London: the curious case of 29 Harley Street,offshore
