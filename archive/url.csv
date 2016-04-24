@@ -60,3 +60,5 @@ No,YYYYMMDD,url,title,genre
 59,20160422,https://events.google.com/io2016/,Google I/O,google
 60,20160422,https://kite.com/blog/thoughts-on-security/,Thoughts on Security,kite|security
 61,20160422,http://hackerthemes.com/bootstrap-cheatsheet,Bootstrap 4 Cheat Sheet,bootstrap
+62,20160424,http://v8project.blogspot.jp/2016/04/v8-release-51.html,V8 Release 5.1,v8
+63,20160424,http://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/,Scala vs. Node.js as a RESTful backend server,scala|node.js|restful
