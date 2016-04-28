@@ -73,3 +73,8 @@ No,YYYYMMDD,url,title,genre
 72,20160427,https://jenkins.io/blog/2016/04/26/jenkins-20-is-here/,Jenkins 2.0 is here!,jenkins
 73,20160427,http://money.cnn.com/2016/04/26/news/companies/mitsubishi-cheating-fuel-tests-25-years/index.html,Mitsubishi: We've been cheating on fuel tests for 25 years,mitsubishi|car
 74,20160427,https://nodejs.org/en/blog/announcements/v6-release/?release,World’s Fastest Growing Open Source Platform Pushes Out New Release,node.js
+75,20160428,http://blog.rust-lang.org/2016/04/19/MIR.html,Introducing MIR,rust
+76,20160428,https://gym.openai.com/,OpenAI Gym,openai|ai
+77,20160428,http://newsroom.fb.com/news/2016/04/marknote/,Note from Mark Zuckerberg,facebook
+78,20160428,https://www.heroku.com/kafka,Heroku Kafka,heroku|kafka
+79,20160428,http://www.apiful.io/intro/2016/04/26/where-is-the-spec.html,Where is the spec?,api
