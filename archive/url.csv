@@ -47,7 +47,7 @@ No,YYYYMMDD,url,title,genre
 46,20160420,https://www.google.com/transparencyreport/safebrowsing/diagnostic/index.html#url=google.com,Google.com partially dangerous,google
 47,20160420,http://www.flexboxpatterns.com/home,Flexbox Patterns,css|flexbox
 48,20160420,https://www.cesg.gov.uk/articles/problems-forcing-regular-password-expiry,The problems with forcing regular password expiry,password
-49,20160420,http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/,Is Bitcoin Becoming More Stable Than Gold?,bitcoin
+49,20160420,http://blogs.wsj.com/moneybeat/2016/04/19/is-bitcoin-becoming-more-stable-than-gold/,Is Bitcoin Becoming More Stable Than Gold?,blockchain|bitcoin
 50,20160420,http://blog.regehr.org/archives/1388,Checking Up on Dataflow Analyses,dataflow analyses
 51,20160421,http://www.alexkras.com/19-git-tips-for-everyday-use/,19 Tips For Everyday Git Use,git
 52,20160421,https://blog.plaid.com/npmserve/,Speeding up npm in virtual environments,npm|vagrant
@@ -64,7 +64,7 @@ No,YYYYMMDD,url,title,genre
 63,20160424,http://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/,Scala vs. Node.js as a RESTful backend server,scala|node.js|restful
 64,20160425,https://stratechery.com/2016/apples-organizational-crossroads/,APPLE’S ORGANIZATIONAL CROSSROADS,apple
 65,20160426,https://stripe.com/blog/bring-your-own-team,BYOT,startup
-66,20160426,http://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up,When Bitcoin Grows Up,bitcoin
+66,20160426,http://www.lrb.co.uk/v38/n08/john-lanchester/when-bitcoin-grows-up,When Bitcoin Grows Up,blockchain|bitcoin
 67,20160426,http://danluu.com/programming-blogs/,Programming blogs every programmer must read,programming
 68,20160426,http://www.anishathalye.com/2016/04/25/dropbox-as-a-true-git-server/,Dropbox as a True Git Server,dropbox|git
 69,20160427,https://www.linux.com/news/best-linux-distros-2016,The Best Linux Distros of 2016,linux
@@ -78,3 +78,8 @@ No,YYYYMMDD,url,title,genre
 77,20160428,http://newsroom.fb.com/news/2016/04/marknote/,Note from Mark Zuckerberg,facebook
 78,20160428,https://www.heroku.com/kafka,Heroku Kafka,heroku|kafka
 79,20160428,http://www.apiful.io/intro/2016/04/26/where-is-the-spec.html,Where is the spec?,api
+80,20160506,http://gradle.org/blog/agile-is-dead/,Agile is Dead. Long Live Continuous Delivery,agile
+80,20160509,https://www.evilsocket.net/2016/05/08/Hacking-Yourself-out-of-the-Banking-System-and-Live-only-on-BitCoins/,Hacking Yourself Out of the Banking System and Live Only on BitCoin,blockchain|bitcoin
+81,20160509,http://www.bloomberg.com/view/articles/2016-05-05/basic-income-and-blockchain-courts,Basic Income and Blockchain Courts,blockchain
+82,20160509,https://sanctum.geek.nz/arabesque/cron-best-practices/,Cron best practices,cron
+83,20160509,http://arachne-framework.org/posts/2016/frameworks-libraries-and-templates/,Frameworks. Libraries and Templates in Arachne,framework|clojure
