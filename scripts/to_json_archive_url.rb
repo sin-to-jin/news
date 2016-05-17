@@ -3,4 +3,4 @@
 require 'csv'
 require 'json'
 
-p CSV.open('../archive/url.csv', headers: true).map(&:to_h).to_json
+puts JSON.pretty_generate(CSV.open('../archive/url.csv', headers: true).map(&:to_h))
